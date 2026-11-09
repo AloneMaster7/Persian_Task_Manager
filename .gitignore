@@ -1,0 +1,20 @@
+# Build outputs
+*.exe
+*.o
+*.obj
+*.dll
+*.pdb
+*.ilk
+
+# Local application data
+/tasks.dat
+
+# IDE / editor files
+.vscode/
+.idea/
+*.user
+*.suo
+
+# Archives and logs
+*.zip
+*.log
