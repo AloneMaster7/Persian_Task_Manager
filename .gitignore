@@ -1,0 +1,5 @@
+TaskManager.exe
+tasks.dat
+*.o
+*.obj
+*.dll
