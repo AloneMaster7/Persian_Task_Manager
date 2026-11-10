@@ -1,6 +1,6 @@
 # Persian Win32 Task Manager
 
-**Version: 1**
+**Version: 1.0**
 
 A lightweight, native Windows desktop application for organizing tasks by priority. The application is written in **C++11** using the **Win32 API** and stores task data locally on the computer.
 
