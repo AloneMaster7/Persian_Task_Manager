@@ -33,7 +33,7 @@
 ```text
 Project/
 ├── TaskManager.cpp
-├── icon.ico              <-- آیکون خودتان را اینجا قرار دهید
+├── icon.ico            
 ├── build.bat
 ├── build.sh
 ├── README.md
